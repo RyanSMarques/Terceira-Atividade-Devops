@@ -41,7 +41,3 @@ Execução do Script:
 
 
 
-## Minhas Redes.
-Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
- 
-- Linkedin: [linkedin.com/in/matheuspiress](https://www.linkedin.com/in/matheuspiress/)
